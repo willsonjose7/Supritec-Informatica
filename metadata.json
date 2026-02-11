@@ -1,0 +1,7 @@
+{
+  "name": "Supritec - Eletrônicos & Tecnologia",
+  "description": "Uma loja virtual moderna e completa para eletrônicos com foco em performance e design tecnológico.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
